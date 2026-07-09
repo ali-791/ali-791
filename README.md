@@ -15,7 +15,7 @@
 - 🌱 Exploring **microservices architecture**: NATS, gRPC, and resilience patterns
 - 🤖 I built a **Smart Scent Detection System** using Wio Terminal + Edge Impulse (Embedded ML)
 - 🐧 Daily driver: **Fedora Linux**
-- 💬 Ask me about: Go, REST APIs, PostgreSQL schema design, WSO2 Identity Server
+- 💬 Ask me about: Go, REST APIs, FAST APIs, PostgreSQL schema design, WSO2 Identity Server
 
 ---
 
@@ -47,10 +47,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-791&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-791&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=ali-791&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
